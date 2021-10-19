@@ -1,0 +1,7 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\bin\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\bin\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\bin\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\obj\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\obj\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\obj\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Softuni Coffee Orders\obj\Debug\Programming Fundamentals ExamP 2 - Softuni Coffee Orders.pdb

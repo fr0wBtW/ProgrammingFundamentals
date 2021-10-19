@@ -1,0 +1,13 @@
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Assault\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.exe.config
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Assault\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.exe
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Assault\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.pdb
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.exe
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Assault\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Assault.pdb

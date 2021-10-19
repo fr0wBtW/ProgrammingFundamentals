@@ -1,0 +1,13 @@
+C:\Users\Jorka\source\repos\Sample1\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+C:\Users\Jorka\source\repos\Sample1\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Jorka\source\repos\Sample1\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+C:\Users\Jorka\source\repos\Sample1\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Jorka\source\repos\Sample1\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

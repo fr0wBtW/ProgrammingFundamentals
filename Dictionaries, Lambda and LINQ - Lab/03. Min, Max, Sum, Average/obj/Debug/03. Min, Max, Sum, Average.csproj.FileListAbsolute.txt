@@ -1,0 +1,14 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

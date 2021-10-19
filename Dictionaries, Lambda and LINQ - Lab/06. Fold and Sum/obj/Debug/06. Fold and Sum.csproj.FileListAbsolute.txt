@@ -1,0 +1,7 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\06. Fold and Sum.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\06. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.pdb

@@ -1,0 +1,21 @@
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.exe.config
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.exe
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.pdb
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.exe
+C:\Users\Jorka\source\repos\Sample1\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\bin\Debug\Objects and Simple Classes - Websites.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\Objects and Simple Classes - Websites\obj\Debug\Objects and Simple Classes - Websites.pdb

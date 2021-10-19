@@ -1,0 +1,14 @@
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.exe.config
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.exe
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.pdb
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.exe
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\bin\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals - Exam Preparation - Hornet Wings\obj\Debug\Programming Fundamentals - Exam Preparation - Hornet Wings.pdb

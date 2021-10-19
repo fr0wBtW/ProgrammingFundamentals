@@ -1,0 +1,14 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\obj\Debug\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\obj\Debug\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\obj\Debug\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb

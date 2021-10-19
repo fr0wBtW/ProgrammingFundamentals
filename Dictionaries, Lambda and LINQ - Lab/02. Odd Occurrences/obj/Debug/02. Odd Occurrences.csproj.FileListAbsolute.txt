@@ -1,0 +1,13 @@
+C:\Users\Jorka\source\repos\Sample1\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe.config
+C:\Users\Jorka\source\repos\Sample1\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+C:\Users\Jorka\source\repos\Sample1\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+C:\Users\Jorka\source\repos\Sample1\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+C:\Users\Jorka\source\repos\Sample1\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb

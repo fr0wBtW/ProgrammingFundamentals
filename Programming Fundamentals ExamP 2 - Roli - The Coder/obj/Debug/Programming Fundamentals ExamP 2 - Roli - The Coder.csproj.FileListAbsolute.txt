@@ -1,0 +1,14 @@
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\bin\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.exe.config
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\bin\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.exe
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\bin\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.pdb
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.exe
+C:\Users\Jorka\source\repos\Sample1\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\bin\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\bin\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\bin\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Roli - The Coder\obj\Debug\Programming Fundamentals ExamP 2 - Roli - The Coder.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\bin\Debug\Programming Fundamental ExamP 2 - Charity Marathon.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\bin\Debug\Programming Fundamental ExamP 2 - Charity Marathon.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\bin\Debug\Programming Fundamental ExamP 2 - Charity Marathon.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\obj\Debug\Programming Fundamental ExamP 2 - Charity Marathon.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\obj\Debug\Programming Fundamental ExamP 2 - Charity Marathon.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\obj\Debug\Programming Fundamental ExamP 2 - Charity Marathon.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamental ExamP 2 - Charity Marathon\obj\Debug\Programming Fundamental ExamP 2 - Charity Marathon.pdb

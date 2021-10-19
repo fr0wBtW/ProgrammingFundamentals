@@ -1,0 +1,7 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\bin\Debug\Match Full Name (RegEx).exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\bin\Debug\Match Full Name (RegEx).exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\bin\Debug\Match Full Name (RegEx).pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\obj\Debug\Match Full Name (RegEx).csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\obj\Debug\Match Full Name (RegEx).csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\obj\Debug\Match Full Name (RegEx).exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name (RegEx)\obj\Debug\Match Full Name (RegEx).pdb

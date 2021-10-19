@@ -1,0 +1,14 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\obj\Debug\02. Randomize Words.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\obj\Debug\02. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\obj\Debug\02. Randomize Words.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\obj\Debug\02. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Objects and Classes - Lab\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb

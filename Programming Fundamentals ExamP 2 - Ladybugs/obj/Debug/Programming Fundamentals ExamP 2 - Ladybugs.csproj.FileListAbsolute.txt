@@ -1,0 +1,7 @@
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\bin\Debug\Programming Fundamentals ExamP 2 - Ladybugs.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\bin\Debug\Programming Fundamentals ExamP 2 - Ladybugs.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\bin\Debug\Programming Fundamentals ExamP 2 - Ladybugs.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\obj\Debug\Programming Fundamentals ExamP 2 - Ladybugs.csprojAssemblyReference.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\obj\Debug\Programming Fundamentals ExamP 2 - Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\obj\Debug\Programming Fundamentals ExamP 2 - Ladybugs.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Programming Fundamentals ExamP 2 - Ladybugs\obj\Debug\Programming Fundamentals ExamP 2 - Ladybugs.pdb

@@ -1,0 +1,13 @@
+C:\Users\Jorka\source\repos\Sample1\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\Jorka\source\repos\Sample1\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\Jorka\source\repos\Sample1\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\Jorka\source\repos\Sample1\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Sample1\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\Jorka\source\repos\Sample1\Bubble Sort\obj\Debug\Bubble Sort.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\obj\Debug\Bubble Sort.pdb
+C:\Users\Jorka\source\repos\Programming Fundamentals\Bubble Sort\obj\Debug\Bubble Sort.csprojAssemblyReference.cache
